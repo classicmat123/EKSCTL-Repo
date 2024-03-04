@@ -36,17 +36,15 @@ require (
 	github.com/dave/jennifer v1.6.0
 	github.com/dlespiau/kube-test-harness v0.0.0-20200915102055-a03579200ae8
 	github.com/evanphx/json-patch/v5 v5.6.0
-	github.com/fatih/color v1.13.0
 	github.com/github-release/github-release v0.10.0
 	github.com/gobwas/glob v0.2.3
 	github.com/gofrs/flock v0.8.1
 	github.com/golangci/golangci-lint v1.50.1
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.6.0
 	github.com/goreleaser/goreleaser v1.6.1
 	github.com/hashicorp/go-version v1.6.0
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/kris-nova/logger v0.2.1
-	github.com/kris-nova/lolgopher v0.0.0-20210112022122-73f0047e8b65
 	github.com/kubicorn/kubicorn v0.0.0-20180829191017-06f6bce92acc
 	github.com/lithammer/dedent v1.1.0
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.4.1
@@ -213,6 +211,7 @@ require (
 	github.com/evanphx/json-patch v5.6.0+incompatible // indirect
 	github.com/evertras/bubble-table v0.14.4 // indirect
 	github.com/exponent-io/jsonpath v0.0.0-20151013193312-d6023ce2651d // indirect
+	github.com/fatih/color v1.13.0 // indirect
 	github.com/fatih/structtag v1.2.0 // indirect
 	github.com/firefart/nonamedreturns v1.0.4 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.3+incompatible // indirect
